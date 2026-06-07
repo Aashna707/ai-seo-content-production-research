@@ -43,10 +43,6 @@ This research will support a **real playbook** for B2B SaaS companies to scale c
 
 ---
 
-## Repository Structure
-
----
-
 ## How I Collected This Data
 
 **Tools Used:**
