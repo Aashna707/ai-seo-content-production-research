@@ -38,11 +38,11 @@ growing category-wise but are not cannibalizing Google's market share yet.
 
 **Relevance to AI SEO:**
 This post is essential for understanding why SEO content strategy must evolve. If AI
-Overviews are absorbing more searches without producing clicks, content must now be
+Overviews are absorbing more searches without producing clicks; content must now be
 optimized for *being cited inside AI answers*, not just for driving traffic. This is the
 foundational argument for GEO and AEO as disciplines.
 
-Research Score: 5/5.
+**Research Score:** 5/5.
 
 ---
 
@@ -55,9 +55,9 @@ Research Score: 5/5.
 **Summary:**
 Fishkin introduces the concept of "zero-click content" — content designed to deliver full
 value on the platform it lives on (LinkedIn, Twitter, YouTube) rather than trying to drive
-users off-platform. He argues that fighting platform algorithms by embedding links is losing
+users off-platform. He argues that fighting platform algorithms by embedding links is a losing
 strategy. Instead, marketers should treat social and search platforms like billboards:
-optimize for awareness and recall, not for clicks.
+Optimize for awareness and recall, not for clicks.
 
 **Key Takeaways:**
 - Zero-click is not a problem to solve — it is a behavior to design for. Build content that
@@ -74,7 +74,7 @@ The zero-click insight directly maps to how AI Overviews work. When Google's AI 
 query without a click, the brand that was cited wins *awareness* without traffic. Content
 teams need to plan for this: create content that works even if no one clicks through.
 
-Research Score: 4/5.
+**Research Score:** 4/5.
 
 ---
 
@@ -92,7 +92,7 @@ traffic (up from 24.4% in March 2024). He also references a Pew Research study c
 that users are less likely to click links when an AI summary appears in results.
 
 **Key Takeaways:**
-- Zero-click has reached 27.2% in the US — more than 1 in 4 searches produces no click.
+- Zero-click has reached 27.2% in the US — more than 1 in 4 searches produce no click.
 - AI tools are a parallel ecosystem, not a Google replacement. Brands need visibility in
   *both* — traditional search and AI answer engines.
 - Pew Research independently confirms: AI summaries reduce click-through rates. The data
@@ -102,10 +102,10 @@ that users are less likely to click links when an AI summary appears in results.
 
 **Relevance to AI SEO:**
 This is the empirical foundation for why AI SEO exists as a discipline. If 27%+ of searches
-produce no click, and AI summaries reduce CTR further, then content that earns AI citations
-is more valuable than content that ranks but gets passed over.
+produce no click, and AI summaries reduce CTR further than content that earns AI citations
+It is more valuable than content that ranks but gets passed over.
 
-Research Score: 5/5.
+**Research Score:*** 5/5.
 
 ---
 
@@ -144,10 +144,10 @@ a form of AI SEO optimization. This directly informs a GEO/AEO content strategy.
    for traffic.
 
 2. **AI tools and Google are parallel ecosystems, not competitors (yet).** Content teams
-   should build visibility strategies for both: traditional SEO and AI citation optimization.
+   should build visibility strategies for both traditional SEO and AI citation optimization.
 
-3. **Third-party authority signals matter more than ever.** Being cited by high-authority
-   publications is now both an SEO and an AI discoverability strategy, since LLMs train on
+3. **Third-party authority signals matter more than ever.** Being cited by a high authority
+   publications are now both an SEO and an AI discoverability strategy, since LLMs train on
    those sources.
 
 4. **Traffic is a broken metric.** The industry needs new measurement frameworks: AI
@@ -156,4 +156,4 @@ a form of AI SEO optimization. This directly informs a GEO/AEO content strategy.
 
 5. **Platform-native content is the zero-click strategy.** Building content that delivers
    value on-platform (LinkedIn posts, YouTube videos, Reddit threads) without requiring a
-   click is the correct adaptation to both social algorithm changes and AI search changes.
+   Click is the correct adaptation to both social algorithm changes and AI search changes.
