@@ -1,84 +1,149 @@
-# AI-Powered SEO Content Production Research
+# AI-Powered SEO Content Production — Research Repository
 
-## Why I Chose This Topic
+## Assignment Context
 
-AI-powered SEO content production is the **most critical B2B SaaS growth skill in 2026** because:
+This repository was created as part of the 100Hires Junior Growth Marketer research assignment.
 
-1. **Gartner projects 25% of organic traffic will shift to AI chatbots** by 2026
-2. **AI-referred visitors convert at 4.4x the rate** of traditional search
-3. GEO (Generative Engine Optimization) market projected to reach **$7.3 billion by 2031**
-4. One SEO professional with AI tools can now do the work of **5-10 people**
-
-This research will support a **real playbook** for B2B SaaS companies to scale content production using AI while maintaining quality and rankings.
+The goal is to investigate how leading SEO practitioners use AI to improve content production, search visibility, content quality, and content scalability, and to organize those findings into a structured research repository.
 
 ---
 
-## What I Collected
+## Project Goal
 
-### 10 High-Signal Experts (Not Generic Google Results)
+This research project explores how leading SEO experts, consultants, founders, and content strategists are adapting to the rise of AI-powered search and AI-assisted content creation.
 
-| # | Expert | Role | Platform | Why They're Strong |
-|---|--------|------|----------|-------------------|
-| 1 | Rand Fishkin | SparkToro Co-founder | LinkedIn | Original research on AI search |
-| 2 | Kevin Indig | Shopify Director of SEO | LinkedIn + YouTube | Enterprise-scale AI SEO |
-| 3 | Lily Ray | VP SEO at Amsive | LinkedIn + YouTube | E-E-A-T research expert |
-| 4 | Aleyda Solís | Orainti Founder | LinkedIn | Global SEO educator, 109K+ followers |
-| 5 | Mike King | iPullRank Founder | LinkedIn | AI patents, Relevance Engineering |
-| 6 | Chris Donnelly | Searchable Co-founder | LinkedIn | Building autonomous AI SEO platforms |
-| 7 | Nathan Gotch | Rankability CEO | LinkedIn | Actionable AI-powered SEO systems |
-| 8 | Jason Barnard | Kalicube Founder | LinkedIn | Coined AEO in 2017 |
-| 9 | Ross Simmonds | Distribution.ai Founder | LinkedIn | GEO pioneer, B2B growth master |
-| 10 | Koray Tugberk GUBUR | Digitalus Head of SEO | LinkedIn | Semantic SEO expert |
+The central research question driving every selection decision:
 
-**Why these experts:**
-- ✅ They **practice what they teach** (work at Shopify, Amsive, SparkToro)
-- ✅ They **publish weekly** with tested frameworks
-- ✅ They have **genuine influence** (5K+ followers)
-- ✅ They focus on **B2B SaaS** organic growth
-
-### Collection Breakdown
-
-- **30+ LinkedIn posts** collected (3 per expert from past 90 days)
-- **10+ YouTube transcripts** (1-2 per expert on AI/SEO topics)
+> How are leading SEO experts using AI to create, optimize, scale, or improve content?
 
 ---
 
-## How I Collected This Data
+## Repository Structure
 
-**Tools Used:**
-- LinkedIn: Manual collection
-- YouTube: Manual transcript copy
-
-**Process:**
-1. Found experts via LinkedIn search and industry roundups
-2. Verified they practice AI SEO (not just theory)
-3. Collected latest 3 posts from past 90 days
-4. Found 1-2 YouTube videos per expert
-5. Organized by author
-
----
-
-## Next Steps (For Playbook)
-
-1. Analyze patterns across experts' content strategies
-2. Extract frameworks for AI-powered content production
-3. Build workflows combining AI tools + human oversight
-4. Create templates for B2B SaaS companies
+```
+research/
+├── sources.md
+├── linkedin-posts/
+│   ├── rand-fishkin.md
+│   ├── kevin-indig.md
+│   ├── lily-ray.md
+│   ├── aleyda-solis.md
+│   ├── mike-king.md
+│   ├── chris-donnelly.md
+│   ├── nathan-gotch.md
+│   ├── jason-barnard.md
+│   ├── ross-simmonds.md
+│   └── koray-gubur.md
+├── youtube-transcripts/
+└── other/
+```
 
 ---
 
-## Commit History
+## Expert Selection Criteria
 
-- June 7, 2026: Initial README with expert rationale
-- June 7, 2026: Add sources.md with 10 experts
-- June 7, 2026: Add LinkedIn posts
-- June 7, 2026: Add YouTube transcripts
+Each expert was selected using the following criteria:
+
+### 1. Practitioner, Not Commentator
+
+Every expert actively works in SEO, AI search, content production, consulting, agency operations, software development, or original research.
+
+### 2. Unique Perspective
+
+Each expert contributes a different viewpoint on AI-powered SEO content production, ensuring broad coverage of the field.
+
+### 3. Industry Influence
+
+Each expert has demonstrated influence through original research, frameworks, industry education, speaking engagements, software products, consulting work, or thought leadership.
 
 ---
 
-## My Evaluation Criteria Met
+## Selected Experts
 
-✅ Quality of chosen experts (not first Google results)
-✅ Repository structure (clean, organized)
-✅ Multiple commits (regular progress)
-✅ High-signal sources for real playbook
+| Expert              | Organization                           | Research Focus                                            |
+| ------------------- | -------------------------------------- | --------------------------------------------------------- |
+| Rand Fishkin        | SparkToro                              | AI search behavior, zero-click search, audience research  |
+| Kevin Indig         | Growth Memo                            | Enterprise AI SEO, search strategy, content defensibility |
+| Lily Ray            | Amsive / Algorhythm                    | E-E-A-T, content quality, Google search systems           |
+| Aleyda Solís        | Orainti                                | International SEO, AI workflows, implementation           |
+| Mike King           | iPullRank                              | AI search, search patents, Relevance Engineering          |
+| Chris Donnelly      | Searchable                             | AI automation, AI-driven SEO systems                      |
+| Nathan Gotch        | Rankability                            | AI-assisted content production workflows                  |
+| Jason Barnard       | Kalicube                               | Answer Engine Optimization (AEO), entity optimization     |
+| Ross Simmonds       | Foundation Marketing / Distribution.ai | Content distribution, GEO, B2B growth                     |
+| Koray Tuğberk GÜBÜR | Holistic SEO & Digital                 | Semantic SEO, topical authority, information gain         |
+
+---
+
+## Research Methodology
+
+For each expert, recent LinkedIn posts and selected long-form educational content were reviewed and organized.
+
+Each piece of content was evaluated against the following criteria:
+
+| Evaluation Question                       | Score |
+| ----------------------------------------- | ----- |
+| Does it discuss AI?                       | 1     |
+| Does it discuss SEO?                      | 1     |
+| Does it provide actionable advice?        | 1     |
+| Does it introduce a framework or process? | 1     |
+| Does it contribute to an AI SEO playbook? | 1     |
+
+### Scoring Guide
+
+* 5/5 = Strong inclusion
+* 4/5 = Include
+* 3/5 = Optional
+* 0-2/5 = Exclude
+
+### Content Excluded
+
+* Event announcements
+* Hiring posts
+* Personal updates
+* Generic motivational content
+* Product launches unrelated to AI-powered SEO
+
+---
+
+## Emerging Research Themes
+
+The following themes are beginning to emerge across the collected research:
+
+* AI citations and AI search visibility
+* Generative Engine Optimization (GEO)
+* Answer Engine Optimization (AEO)
+* Topical authority and semantic coverage
+* E-E-A-T and content quality
+* Human-AI collaborative content workflows
+* Information gain and content differentiation
+* Content distribution for AI discoverability
+* Entity optimization and brand authority
+
+These themes will continue to evolve as additional research is collected and analyzed.
+
+---
+
+## Research Objectives
+
+This repository is intended to support the creation of a practical AI SEO Content Production Playbook covering:
+
+* AI-assisted content production workflows
+* Content quality assurance processes
+* GEO and AEO optimization strategies
+* Topical authority development
+* AI search visibility measurement
+* E-E-A-T implementation
+* Content distribution strategies
+* Human-AI collaboration frameworks
+
+---
+
+## Current Status
+
+* [x] Repository structure created
+* [x] Expert list finalized
+* [ ] LinkedIn post collection in progress
+* [ ] YouTube transcript collection in progress
+* [ ] Research synthesis in progress
+* [ ] Final AI SEO Content Production Playbook
