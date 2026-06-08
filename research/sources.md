@@ -164,3 +164,43 @@ or higher were included.
 7. **The human-AI hybrid workflow is the current consensus best practice.** Across all
    experts, the same production model emerges: AI for structure, drafting, and speed;
    humans for insight, validation, quality control, and voice.
+
+---
+
+## YouTube Videos by Expert
+
+### Kevin Indig
+- https://www.youtube.com/watch?v=gFqNOCWbF-4
+  *How Users Really Interact With AI Search | The Campaign Podcast | May 30, 2025 | Score: 5/5*
+- https://www.youtube.com/watch?v=7_jVxehRG1w
+  *The Future of SEO in an AI-First World | Churn.fm Ep. 295 | June 2025 | Score: 5/5*
+
+### Mike King (iPullRank)
+- https://www.youtube.com/watch?v=ukpU-EfRtV4
+  *How to Win Visibility in AI Search: The AI Search Manual Walkthrough | Sept 25, 2025 | Score: 5/5*
+- https://www.youtube.com/watch?v=pQLivtcqCZs
+  *Relevance Engineering, AI Search & Query Fan Out Technique | Page 2 Podcast | May 27, 2025 | Score: 5/5*
+
+### Lily Ray
+- https://www.youtube.com/watch?v=2vtFN9lDciM
+  *The Vicious Cycle of SEO: How We Got Here & Where We're Going | SEO Week 2025 | Aug 2025 | Score: 5/5*
+- https://www.youtube.com/watch?v=UDexUcyPC04
+  *AI Overviews, AI Content and E-E-A-T | Friends of Search Amsterdam | March 17, 2025 | Score: 5/5*
+
+### Nathan Gotch
+- https://www.youtube.com/watch?v=06KYHKhSzu0
+  *AI SEO in 2025: The New Rules | June 9, 2025 | Score: 5/5*
+- https://www.youtube.com/watch?v=9wuHUDm4-WE
+  *AI SEO for Dummies: 2025 Guide | September 1, 2025 | Score: 5/5*
+
+### Ross Simmonds
+- https://www.youtube.com/watch?v=VXxFJAg7YJw
+  *Content Distribution in the Age of AI | Zero Click by Profound, NYC | Nov 13, 2025 | Score: 5/5*
+- https://www.youtube.com/watch?v=TMHNuhLvLbQ
+  *GEO vs. SEO: AI Overviews, ChatGPT, Gemini, and Claude AI Are Transforming Search | Aug 19, 2025 | Score: 5/5*
+
+### Koray Tuğberk GÜBÜR
+- https://www.youtube.com/watch?v=5PAoIhyalsg
+  *Technical SEO & Semantic SEO with Koray Tugberk Gubur | Nov 4, 2024 | Score: 5/5*
+- https://www.youtube.com/watch?v=81pe-YM9iRI
+  *AI-Powered Semantic SEO with Koray Gubur | June 15, 2023 | Score: 5/5*
