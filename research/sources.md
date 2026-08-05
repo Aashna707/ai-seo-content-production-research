@@ -1,6 +1,7 @@
 # Sources
 
 **Topic:** AI-Powered SEO Content Production
+**Playbook:** research/playbook.md
 **Research Period:** 2023–2026
 **Methodology:** Manual curation of LinkedIn posts and supplementary sources; selection
 criteria based on a 5-point scoring rubric (AI discussion, SEO discussion, actionable
@@ -204,3 +205,7 @@ or higher were included.
   *Technical SEO & Semantic SEO with Koray Tugberk Gubur | Nov 4, 2024 | Score: 5/5*
 - https://www.youtube.com/watch?v=81pe-YM9iRI
   *AI-Powered Semantic SEO with Koray Gubur | June 15, 2023 | Score: 5/5*
+
+---
+
+The research in this file directly informed the SOP in `research/playbook.md`.
