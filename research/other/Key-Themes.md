@@ -218,3 +218,7 @@ would need to address:
 All seven layers are required. A playbook that covers only content production (layers 2-4)
 without strategy (layer 1), distribution (layer 5), and measurement (layers 6-7) will
 produce well-structured content that never gets cited and whose impact can never be proven.
+
+---
+
+See `research/playbook.md` for the full SOP built from these themes.
